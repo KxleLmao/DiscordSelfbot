@@ -75,9 +75,4 @@ $ python selfbot.py
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [CLICK HERE](https://github.com/AstraaDev/Discord-SelfBot) to watch the YouTube video.
-- If you find any malfunction, contact me on Discord: Astraa#6100 or join my [Discord Server](https://dsc.gg/astraadev).
-
-
-## Example
-![help_command.png](https://cdn.discordapp.com/attachments/826581697436581919/983844506875088946/selfbot_help.png)
+- If you find any malfunction, contact me on Discord: Kxle_lmao#0106
